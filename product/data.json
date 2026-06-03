@@ -1,0 +1,46 @@
+{
+  "title": "卡牌商品",
+  "subtitle": "經典寶可夢 × 稀有 EX/GX",
+  "products": [
+    {
+      "id": "card_001",
+      "name": "皮卡丘 V",
+      "type": "Electric",
+      "rarity": "Rare",
+      "hp": 200,
+      "price": 120,
+      "image_url": "/images/card-pikachu-v.png",
+      "description": "電氣系經典代表，初心者首選"
+    },
+    {
+      "id": "card_002",
+      "name": "噴火龍 VMAX",
+      "type": "Fire",
+      "rarity": "Ultra Rare",
+      "hp": 330,
+      "price": 580,
+      "image_url": "/images/card-charizard-vmax.png",
+      "description": "高 HP + 高爆發傷害的火系王者"
+    },
+    {
+      "id": "card_003",
+      "name": "超夢 GX",
+      "type": "Psychic",
+      "rarity": "Ultra Rare",
+      "hp": 270,
+      "price": 480,
+      "image_url": "/images/card-mewtwo-gx.png",
+      "description": "超能系終極輸出，GX 技能一擊必殺"
+    },
+    {
+      "id": "card_004",
+      "name": "傑尼龜",
+      "type": "Water",
+      "rarity": "Common",
+      "hp": 60,
+      "price": 30,
+      "image_url": "/images/card-squirtle.png",
+      "description": "御三家經典水系，進化路線完整"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Pokémon TCG",
+    "subtitle": "集換 · 對戰 · 成為訓練家大師",
+    "background_image": "/images/hero-pokemon.jpg"
+  },
+  "cta": {
+    "primary": {
+      "label": "開始集換",
+      "href": "/tutorial"
+    },
+    "secondary": {
+      "label": "瀏覽卡牌",
+      "href": "/products"
+    }
+  },
+  "featured_cards": [
+    {
+      "id": "pikachu",
+      "name": "皮卡丘",
+      "type": "Electric",
+      "image": "/images/card-pikachu.png"
+    },
+    {
+      "id": "charizard",
+      "name": "噴火龍",
+      "type": "Fire",
+      "image": "/images/card-charizard.png"
+    },
+    {
+      "id": "mewtwo",
+      "name": "超夢",
+      "type": "Psychic",
+      "image": "/images/card-mewtwo.png"
+    }
+  ]
+}

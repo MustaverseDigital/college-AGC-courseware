@@ -1,0 +1,30 @@
+{
+  "title": "新手教學",
+  "subtitle": "5 分鐘學會寶可夢卡牌對戰",
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "認識屬性相剋",
+      "description": "Fire 剋 Grass、Water 剋 Fire、Electric 剋 Water — 屬性決定攻擊倍率",
+      "image": "/images/tutorial-types.png"
+    },
+    {
+      "step_number": 2,
+      "title": "卡牌種類",
+      "description": "寶可夢卡（戰鬥用）/ 訓練家卡（道具技能）/ 能量卡（驅動技能）三大類缺一不可",
+      "image": "/images/tutorial-cards.png"
+    },
+    {
+      "step_number": 3,
+      "title": "出牌規則",
+      "description": "每回合抽 1 張、進化需要 1 回合、擊倒對手寶可夢拿獎賞卡、先拿 6 張獎賞卡獲勝",
+      "image": "/images/tutorial-rules.png"
+    },
+    {
+      "step_number": 4,
+      "title": "組牌建議",
+      "description": "60 張一副：寶可夢 ~20 / 訓練家 ~25 / 能量 ~15。先選一個主屬性再配副屬性",
+      "image": "/images/tutorial-deck.png"
+    }
+  ]
+}

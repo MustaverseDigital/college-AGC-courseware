@@ -41,6 +41,16 @@
       "price": 30,
       "image_url": "/images/card-squirtle.png",
       "description": "御三家經典水系，進化路線完整"
+    },
+    {
+      "id": "card_005",
+      "name": "火球鼠",
+      "type": "Fire",
+      "rarity": "Common",
+      "hp": 70,
+      "price": 100,
+      "image_url": "/images/card-squirtle.png",
+      "description": "全新御三家"
     }
   ]
 }

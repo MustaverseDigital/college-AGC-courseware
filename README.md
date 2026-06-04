@@ -1,5 +1,7 @@
 # v0 Ready-to-Paste Prompts — Pokémon TCG 訓練家網站
 
+AGC網站生成結果：https://v0-pokemon-tcg-website-navy.vercel.app/
+
 對齊 PRD: [V0_PRD_POKEMON_TCG.md](./V0_PRD_POKEMON_TCG.md)
 
 **使用順序**：
